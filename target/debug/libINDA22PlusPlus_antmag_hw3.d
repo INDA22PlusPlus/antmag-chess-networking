@@ -1,0 +1,1 @@
+/Users/antonmagnusson/Desktop/_prog/ru/INDA22PlusPlus-antmag-hw3/target/debug/libINDA22PlusPlus_antmag_hw3.rlib: /Users/antonmagnusson/Desktop/_prog/ru/INDA22PlusPlus-antmag-hw3/src/content.rs /Users/antonmagnusson/Desktop/_prog/ru/INDA22PlusPlus-antmag-hw3/src/lib.rs /Users/antonmagnusson/Desktop/_prog/ru/INDA22PlusPlus-antmag-hw3/src/piece.rs

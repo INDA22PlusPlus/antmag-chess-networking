@@ -1,0 +1,10 @@
+/Users/antonmagnusson/Desktop/_prog/ru/INDA22PlusPlus-antmag-hw3/target/debug/deps/owned_ttf_parser-fa4cf75cea40d3f4.rmeta: /Users/antonmagnusson/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/lib.rs /Users/antonmagnusson/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/convert.rs /Users/antonmagnusson/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/owned.rs /Users/antonmagnusson/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/preparse.rs
+
+/Users/antonmagnusson/Desktop/_prog/ru/INDA22PlusPlus-antmag-hw3/target/debug/deps/libowned_ttf_parser-fa4cf75cea40d3f4.rlib: /Users/antonmagnusson/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/lib.rs /Users/antonmagnusson/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/convert.rs /Users/antonmagnusson/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/owned.rs /Users/antonmagnusson/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/preparse.rs
+
+/Users/antonmagnusson/Desktop/_prog/ru/INDA22PlusPlus-antmag-hw3/target/debug/deps/owned_ttf_parser-fa4cf75cea40d3f4.d: /Users/antonmagnusson/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/lib.rs /Users/antonmagnusson/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/convert.rs /Users/antonmagnusson/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/owned.rs /Users/antonmagnusson/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/preparse.rs
+
+/Users/antonmagnusson/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/lib.rs:
+/Users/antonmagnusson/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/convert.rs:
+/Users/antonmagnusson/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/owned.rs:
+/Users/antonmagnusson/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.2/src/preparse.rs:
